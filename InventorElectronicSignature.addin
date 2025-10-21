@@ -5,8 +5,8 @@
   <ProgId>InventorElectronicSignature.AddIn</ProgId>
   <Name>电子签名插件</Name>
   <Description>为Autodesk Inventor 2021工程图添加电子签名和验证功能</Description>
-  <Author>开发者名称</Author>
-  <Company>公司名称</Company>
+  <Author>朱松</Author>
+  <Company>重装集团</Company>
   <Version>1.0.0</Version>
   <!-- 替换为实际DLL路径（用户需手动修改） -->
   <Assembly>C:\InventorPlugins\InventorElectronicSignature.dll</Assembly>
